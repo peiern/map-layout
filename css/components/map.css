@@ -1,0 +1,10 @@
+.cards-map {
+  display: flex;
+  justify-content: flex-start;
+  position: sticky;
+  margin: 8px;
+}
+
+#map {
+  width: 50%;
+}
